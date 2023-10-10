@@ -1,0 +1,35 @@
+{
+  "list": [
+    "아무것도 두려워 말라",
+    "예수때문에",
+    "나는 예배자입니다",
+    "오직 예수뿐니다",
+    "내안에 가장 귀한것",
+    "Living Hope",
+    "King of kings",
+    "ကိုယ်တော်မပါရင်လေ",
+    "မျက်မှောက်တော်"
+  ],
+  "images": [
+    "images/worship.jpg",
+    "images/worship2.jpg",
+    "images/worship3.jpg",
+    "images/worship4.jpg"
+  ],
+  "youtube": [
+    "https://youtu.be/hF6p9TVVPRs?si=YBa-7t4kNJJOkEhJ",
+    "https://youtu.be/kG520BlpZbY?si=HrselINbtcX-ZAj6",
+    "https://youtu.be/w9QvvOj1dn4?si=T1-e9byIBuJ3UxGq",
+    "https://youtu.be/gfNH21Q9tOk?si=b0JzGUprb9QZKKS1"
+  ],
+  "carousel": {
+    "firstSlide": "images/slide (1).jpg",
+    "restSlides": [
+      "images/slide (4).jpg",
+      "images/slide (8).jpg",
+      "images/slide (6).jpg",
+      "images/slide (9).jpg",
+      "images/slide (3).jpg"
+    ]
+  }
+}
